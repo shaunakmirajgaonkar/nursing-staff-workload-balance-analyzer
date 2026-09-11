@@ -1,0 +1,7 @@
+NURSING STAFF WORKLOAD BALANCE ANALYZER
+
+1. Create and activate a virtual environment.
+2. Install requirements.
+3. Run tests.
+4. Start Streamlit with `streamlit run app.py`.
+5. Upload CSV files from the sidebar.

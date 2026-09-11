@@ -1,0 +1,2 @@
+# Data Dictionary
+`staff_id`: local staff/record code.  `ward`: ward or unit. `shift`: shift label. `role`: nursing role. `skill_group`: skill family. `scheduled_hours`: scheduled hours. `worked_hours`: worked hours. `overtime_hours`: overtime hours. `patient_load`: patient workload count/index. `acuity_index`: local acuity signal. `required_skill_hours`: required skill-hours. `available_skill_hours`: available skill-hours. `absenteeism_rate`: local absenteeism percentage. `vacancy_rate`: local vacancy percentage.

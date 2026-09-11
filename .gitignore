@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDEs
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Generated exports
+exports/
+outputs/
+reports/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Local archives
+*.zip
+

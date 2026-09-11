@@ -1,0 +1,9 @@
+ward,skill_group,required_skill_hours,available_skill_hours
+ICU,Critical Care,26,20
+Emergency,Emergency,31,24
+Medical A,Medical,15,14
+Medical B,Medical,18,14
+Pediatrics,Pediatrics,14,13.5
+Surgery,Perioperative,17,14
+Obstetrics,Maternity,15,14
+Oncology,Oncology,17,14

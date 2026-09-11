@@ -1,0 +1,19 @@
+staff_id,ward,shift,role,skill_group,staff_count,scheduled_hours,worked_hours,overtime_hours,patient_load,acuity_index,required_skill_hours,available_skill_hours,absenteeism_rate,vacancy_rate
+N001,ICU,Day,Registered Nurse,Critical Care,1,8,10,2,7,3.6,8,7,4,8
+N002,ICU,Night,Registered Nurse,Critical Care,1,8,9,1,8,3.4,8,7,3,8
+N003,ICU,Day,Nurse Practitioner,Critical Care,1,8,8,0,5,3.2,6,6,2,8
+N004,Emergency,Day,Registered Nurse,Emergency,1,8,11,3,18,2.9,10,8,6,12
+N005,Emergency,Night,Registered Nurse,Emergency,1,8,10,2,16,2.7,10,8,5,12
+N006,Emergency,Evening,Registered Nurse,Emergency,1,8,9,1,14,2.5,9,8,4,12
+N007,Medical A,Day,Registered Nurse,Medical,1,8,8,0,10,1.9,7,7,3,6
+N008,Medical A,Night,Registered Nurse,Medical,1,8,9,1,12,2.1,8,7,4,6
+N009,Medical B,Day,Registered Nurse,Medical,1,8,10,2,15,2.3,9,7,7,10
+N010,Medical B,Night,Registered Nurse,Medical,1,8,9,1,14,2.2,9,7,5,10
+N011,Pediatrics,Day,Registered Nurse,Pediatrics,1,8,8,0,9,1.8,7,7,2,4
+N012,Pediatrics,Night,Registered Nurse,Pediatrics,1,8,8.5,0.5,10,1.9,7,6.5,3,4
+N013,Surgery,Day,Registered Nurse,Perioperative,1,8,10,2,11,2.6,9,7,4,10
+N014,Surgery,Night,Registered Nurse,Perioperative,1,8,9.5,1.5,10,2.5,8,7,4,10
+N015,Obstetrics,Day,Registered Nurse,Maternity,1,8,8,0,8,2.0,7,7,3,5
+N016,Obstetrics,Night,Registered Nurse,Maternity,1,8,9,1,10,2.2,8,7,5,5
+N017,Oncology,Day,Registered Nurse,Oncology,1,8,10,2,9,3.0,9,7,4,10
+N018,Oncology,Night,Registered Nurse,Oncology,1,8,9,1,8,2.8,8,7,3,10
